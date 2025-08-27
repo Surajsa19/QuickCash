@@ -9,6 +9,11 @@ A secure and robust full-stack web application that simulates a peer-to-peer (P2
 
 This project is a complete MERN-stack implementation of a digital wallet application. It provides a seamless user experience for signing up, logging in, checking account balances, and performing secure transactions. The primary focus was on ensuring **transactional integrity** and **data security**, which are paramount in any financial application.
 
+<img width="1919" height="523" alt="image" src="https://github.com/user-attachments/assets/c40222dd-fcf0-4b2b-952c-267745b18faf" />
+
+
+
+
 ---
 
 ## ✨ Key Features
